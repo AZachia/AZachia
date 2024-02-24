@@ -13,6 +13,8 @@
   <img src="https://streak-stats.demolab.com?user=AZachia&theme=transparent&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AZachia" alt="Revan" /></a> </p>
+
 
 
 
