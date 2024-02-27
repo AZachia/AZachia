@@ -3,8 +3,8 @@
 
 
 - 🌱 I’m currently learning **javascript & flask**
-- my best project: **[https://github.com/AZachia/python-AI-Selenium](https://github.com/AZachia/python-AI-Selenium)**
-- my [city](https://honzaap.github.io/GithubCity/?name=AZachia&year=2024)
+- 🔥 my best project: **[https://github.com/AZachia/python-AI-Selenium](https://github.com/AZachia/python-AI-Selenium)**
+- 🏙️ my [city](https://honzaap.github.io/GithubCity/?name=AZachia&year=2024)
 
 
 <h3 align="left">Languages and Tools:</h3>
