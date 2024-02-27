@@ -17,11 +17,24 @@
 
 
 
+<br>
+<p align="center">
+<a href="https://github.com/AZachia"><img alt="AZachia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AZachia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AZachia"><img alt="AZachia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZachia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/AZachia"><img alt="AZachia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AZachia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+  
+</p>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZachia&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZachia&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AZachia&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AZachia&theme=dracula)
+
+
+### <p align="center">👀 &nbsp;Visitors</p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ArticOff/count.svg" />
+</p>
 
