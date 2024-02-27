@@ -21,7 +21,6 @@
 <p align="center">
 <a href="https://github.com/AZachia"><img alt="AZachia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AZachia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/AZachia"><img alt="AZachia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZachia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AZachia"><img alt="AZachia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AZachia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
 </p>
 
