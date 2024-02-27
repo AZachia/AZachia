@@ -35,6 +35,6 @@
 
 ### <p align="center">👀 &nbsp;Visitors</p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/ArticOff/count.svg" />
+  <img src="https://profile-counter.glitch.me/AZachia/count.svg" />
 </p>
 
