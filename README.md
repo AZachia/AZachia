@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/iconsi=py,html,css,js,c,cpp,nodejs,flask,express,linux,debian,md,stackoverflow,devto,ubuntu,debian,vscode,windows,arduino,bash,discord,linkedin,github&perline=12" />
+        <img src="https://skillicons.dev/icons?i=py,html,css,js,c,cpp,nodejs,flask,express,linux,debian,md,stackoverflow,devto,ubuntu,debian,vscode,windows,arduino,bash,discord,linkedin,github&perline=12" />
     </a>
 </p>
 
