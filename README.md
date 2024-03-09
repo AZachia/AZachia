@@ -29,9 +29,6 @@
   
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZachia&layout=compact)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AZachia&theme=dracula) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AZachia&theme=dracula) 
