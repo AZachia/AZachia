@@ -40,10 +40,15 @@
   "features": [
     {
       "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          2.2824267445712962,
+          47.59192767564946
+        ],
+        "type": "Point"
       }
+    }
   ]
 }
 ```
